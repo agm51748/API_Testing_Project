@@ -1,3 +1,4 @@
+# Гульнара Абетова, 24 кагорта - Финальный проект. Инженер по тестированию.
 import requests
 from config import BASE_URL, HEADERS
 
