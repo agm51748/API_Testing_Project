@@ -1,7 +1,6 @@
 # Гульнара Абетова, 24 кагорта - Финальный проект. Инженер по тестированию.
 import requests
-from config import BASE_URL, HEADERS
-
+from configuration import BASE_URL, HEADERS
 def test_create_and_get_order():
     # Параметры заказа
     order_payload = {
